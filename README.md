@@ -45,3 +45,6 @@ To run the unit tests make sure to right click on the UnitTest1.cs code file and
 This will run the tests and then open vlc player via the drivers installed and code written.
 
 
+Template design pattern was followed during this project , In the superclass, it determines the skeleton of an algorithm, but allows subclasses to bypass particular algorithm steps without modifying its structure. The pattern is readable and consistent , easy to identify different parts of the code. It will only fail when a bug has been introduced and this pattern clearly shows which scenario is being tested and when.
+
+
