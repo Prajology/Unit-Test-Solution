@@ -2,6 +2,8 @@
 
 This is a unit test to automate Vlc player using WinAppDriver within visual studio 2019 using C#
 
+To view all the code for the test , please make sure you are in the master branch.
+
 
 The WinAppDriver was downloaded and installed on my local machine and then we have to open the WinAppDriver.exe file found under your program files location,  to start the server.
 
